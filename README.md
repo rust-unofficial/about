@@ -81,7 +81,7 @@ Once they've accepted the invitations, we'll then have you transfer ownership
 of the repo to the organization, and add the caretakers team with owner
 permissions.
 
-## Changes/removal
+## Repo changes / removal
 
 If there comes a time when a repo in rust-unofficial no longer meets the
 organization's criteria, the Rust Community Team may:
@@ -94,3 +94,10 @@ organization's criteria, the Rust Community Team may:
 * If no caretaker can be found for an extended period of time (several
   months), a community team member may mark the repo as deprecated or transfer
   it back to you or to another org
+
+## Policy changes
+
+If these policies turn out to be insufficient or unclear, we might change
+them. If you have any suggestions for how the guidelines could be better or
+clearer, submit an issue or PR to [this
+repo](https://github.com/rust-unofficial/about)!
