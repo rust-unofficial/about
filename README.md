@@ -44,8 +44,14 @@ The caretaker doesn't have to be an expert on your project, but needs to be
 willing to take the initiative to reply to issues and act on pull requests.
 
 The caretaker doesn't have to dedicate a lot of time to the project, but should
-plan on taking a couple hours every week or two to respond to activity on the
+plan on taking an hour a couple times each month to respond to activity on the
 repo.
+
+If you are a community member who wants to see a repo saved from abandonment, 
+you can be its caretaker! The intent of this rule is to make sure that this
+organization doesn't collect abandoned or "Somebody Else's Problem" repos. 
+"Somebody Else's Problem" repos create a bad experience for contributors and
+for org owners.
 
 #### Licensed
 
